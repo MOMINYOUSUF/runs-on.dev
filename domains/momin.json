@@ -4,6 +4,13 @@
     "github": "MOMINYOUSUF"
   },
   "claimedAt": "2026-10-14T17:34:37.596Z",
-  "records": {},
+  "records": {
+    "CNAME": [
+      {
+        "name": "d03cb121d056d418ffcd277422586111",
+        "target": "ns1.byet.org"
+      }
+    ]
+  },
   "country": "PK"
 }
